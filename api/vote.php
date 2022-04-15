@@ -1,5 +1,5 @@
 
-    session_start();
+ 
     include_once('connect.php');
 
     $votes = $_POST['gvotes'];
