@@ -1,5 +1,5 @@
 
- 
+ <? php
     include_once('connect.php');
 
     $votes = $_POST['gvotes'];
